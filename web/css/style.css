@@ -103,7 +103,7 @@ a:focus, a:active, a:hover {
     height: 100%;
     overflow-y: auto;
     z-index: 999;
-    background: #3E9CCA;
+    background: RED    ;
 }	
 .left-side-collapsed .sticky-left-side {
     overflow-y: visible;
@@ -515,7 +515,7 @@ ul.nav li a span {
 -----------------------------*/
 
 .header-section {
-    background: #272727;
+    background: url("http://www.interbasket.net/news/wp-content/uploads/NBA-logos-map-1024x576.jpg") ;
     box-shadow: 1px 0 3px rgba(0,0,0,.15);
     -webkit-box-shadow: 1px 0 3px rgba(0,0,0,.15);
     -moz-box-shadow: 1px 0 3px rgba(0,0,0,.15);
